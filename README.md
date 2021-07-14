@@ -7,19 +7,17 @@ This code is in Python (version 3.6 or higher). If you have lower version of Pyt
 
 To install the required Packages and libraries, run this command in the project directory after cloning the repository.
 Copy paste this and type in command prompt:
-> pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### Data Description :
-The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs.
-*How to run the code* :
+The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is *titles.csv* while Song data is *songs.csv*
 
-Model is trained in CNN_Model_Builder.ipynb
-
-Movies data is titles.csv
-
-Song data is songs.csv
-
-To run the model, just run alphabet_recognition.ipynb
+### Code Execution :
+1.Open the terminal( cmd or powershell ) in the project directory and use the command shown below
+ ```jupyter notebook```
+2.Jupyter notebook will open in the browser window. Now go inside **code** folder and open >alphabet_recognition.ipynb
+3.Now Click on **Cell** in menu and then **Run All** 
+4.Tada you can now have some fun!
 
 choose movie or song by double clicking on option
 
