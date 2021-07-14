@@ -31,7 +31,7 @@ Our trained model achieved Test loss: 0.19 and Test accuracy: 0.937
 > 
 > *To quit the window(Start/Recommendations) at any instance press **'q'** on keyboard*
 > 
-Note : After u press 's' the Recommendation windows will close.
+
 - After you run the code, a window will appear with **Movies and Songs** written on it select any one of them as instructed above.
 - Now you will see a Recommendations window in which you can select any moviename(out of 3) or songname(only 1) 
 - If you selected a movie, name a tab will open on your browser showing the results of Google Search of the movie name
