@@ -11,6 +11,9 @@ Copy paste this and type in command prompt:
 
 ### Data Description :
 The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is ***titles.csv*** while Song data is ***songs.csv***
+### Model Training :
+We have used CNN model for predicting the alphabets writtten on the screen. 
+Our trained model achieved Test loss: 0.19 and Test accuracy: 0.937
 
 ### Code Execution :
 1. Open the terminal( cmd or powershell ) in the project directory and use the command shown below
