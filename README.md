@@ -10,13 +10,13 @@ Copy paste this and type in command prompt:
 ```pip install -r requirements.txt```
 
 ### Data Description :
-The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is > titles.csv while Song data is > songs.csv
+The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is ***titles.csv*** while Song data is ***songs.csv***
 
 ### Code Execution :
 1. Open the terminal( cmd or powershell ) in the project directory and use the command shown below
  ```jupyter notebook```
 2. Jupyter notebook will open in the browser window. Now go inside **code** folder and open >alphabet_recognition.ipynb
-3. Now Click on >Cell in menu and then >Run All
+3. Now Click on **Cell** in menu and then **Run All**
 4. Tada you can now have some fun!
 
 ### Instructions :
@@ -26,7 +26,7 @@ The "Extended Hello World" of object recognition for machine learning and deep l
 > 
 > *To quit the window(Start/Recommendations) at any instance press **'q'** on keyboard*
 > 
-Note : >After u press 's' the Recommendation windows will close.
+Note : After u press 's' the Recommendation windows will close.
 - After you run the code, a window will appear with **Movies and Songs** written on it select any one of them as instructed above.
 - Now you will see a Recommendations window in which you can select any moviename(out of 3) or songname(only 1) 
 - If you selected a movie, name a tab will open on your browser showing the results of Google Search of the movie name
