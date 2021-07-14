@@ -23,6 +23,8 @@ Our trained model achieved Test loss: 0.19 and Test accuracy: 0.937
 4. Tada you can now have some fun!
 
 ### Instructions :
+> *To write on screen you can attach a small circular piece of paper darkened with red pen on one side to a small stick
+> 
 > *To select an option in Start/Recommendations window **double click** on movie/song name and then press **'a'** on keyboard*
 > 
 > *To hear the movie/song name in Recommendations window press **'s'** on keyboard*
