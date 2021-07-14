@@ -21,8 +21,11 @@ The "Extended Hello World" of object recognition for machine learning and deep l
 
 ### Instructions :
 > *To select an option in Start/Recommendations window **double click** on movie/song name and then press **'a'** on keyboard*
+> 
 > *To hear the movie/song name in Recommendations window press **'s'** on keyboard*
+> 
 > *To quit the window(Start/Recommendations) at any instance press **'q'** on keyboard*
+> 
 Note : >After u press 's' the Recommendation windows will close.
 - After you run the code, a window will appear with **Movies and Songs** written on it select any one of them as instructed above.
 - Now you will see a Recommendations window in which you can select any moviename(out of 3) or songname(only 1) 
