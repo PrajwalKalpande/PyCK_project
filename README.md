@@ -10,7 +10,7 @@ Copy paste this and type in command prompt:
 ```pip install -r requirements.txt```
 
 ### Data Description :
-The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is >titles.csv while Song data is >songs.csv
+The "Extended Hello World" of object recognition for machine learning and deep learning is the EMNIST dataset for handwritten letters recognition. It is an extended version of the MNIST dataset. We also used csv files containing data about movies and songs. Movies data is > titles.csv while Song data is > songs.csv
 
 ### Code Execution :
 1. Open the terminal( cmd or powershell ) in the project directory and use the command shown below
